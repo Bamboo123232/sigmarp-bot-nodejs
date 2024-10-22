@@ -11,9 +11,8 @@ Ten bot Discord został stworzony, aby połączyć się z grą i wyświetlać in
 
 ## Użycie
 
-Uruchom bota za pomocą następującego polecenia: 
+Zedytuj config.js i Uruchom bota za pomocą następującego polecenia: 
 
-```zedytuj config.js```
 
 ```
 node index.js
