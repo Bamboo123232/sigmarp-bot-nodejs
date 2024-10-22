@@ -1,15 +1,13 @@
-# Bot Discord Połączony z Grą
-
+# Bot Discord Do łączenia z mta
 Ten bot Discord został stworzony, aby połączyć się z grą i wyświetlać informacje z gry bezpośrednio na serwerze Discord.
 
 ## Funkcje
 
-- Łączy się z określoną grą
 - Wyświetla informacje z gry w czasie rzeczywistym na kanałach Discord
-- Umożliwia graczom sprawdzanie statusu gry bez konieczności jej uruchamiania
+- Umożliwia graczom sprawdzanie statystyk bez konieczności uruchamiania gry
 
 ## Wymagania
-node.js
+ ```node.js```
 
 ## Użycie
 
