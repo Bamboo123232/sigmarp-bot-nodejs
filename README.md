@@ -1,4 +1,4 @@
-# Bot Discord Do łączenia z mta
+# Bot Discord Do SIGMARP
 Ten bot Discord został stworzony, aby połączyć się z grą i wyświetlać informacje z gry bezpośrednio na serwerze Discord.
 
 ## Funkcje
